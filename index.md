@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Claire Kim
-image: /assets/images/_DSC8696.JPG
 ---
 
 ## About Me
