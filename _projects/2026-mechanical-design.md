@@ -12,24 +12,7 @@ So far, we are in the conceptual stage of defining our problem and brainstorming
 
 Here is our most recent Client Outline and Pitch:
 
-<!--
-Use `pandoc` to export this page as a PDF.  The second YAML block below
-contains the Pandoc options (font size, margins, etc.).  When you want to
-re‑generate the PDF, run a command such as:
 
-    pandoc _projects/pandoc.md -o _projects/pandoc2.pdf
-
-Smaller font and narrower margins will attempt to force everything onto a
-single letter‑sized page.
--->
----
-fontsize: 11pt
-geometry: margin= 1in
-papersize: letter
-pagestyle: empty
-header-includes:
-  - \pagenumbering{gobble}
----
 
 **Proposed Solutions for Managing Spotted Lanternflies in Vineyards**
 
