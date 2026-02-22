@@ -12,8 +12,6 @@ So far, we are in the conceptual stage of defining our problem and brainstorming
 
 Here is our most recent Client Outline and Pitch:
 
-
-
 **Proposed Solutions for Managing Spotted Lanternflies in Vineyards**
 
 **Team:** Lanternfly Bye-Bye
