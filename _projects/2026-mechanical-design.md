@@ -10,8 +10,9 @@ In our Intro to Mechanical Design, MAE 2250, class, we were tasked with developi
 
 So far, we are in the conceptual stage of defining our problem and brainstorming solutions.
 
-[Client Pitch](#L15)
-[Functional Prototype](#L58)
+[Client Pitch](##Client-Outline-and-Pitch)
+
+[Functional Prototype](##Functional-Prototype)
 
 ## Client Outline and Pitch:
 
