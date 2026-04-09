@@ -57,9 +57,9 @@ Our second proposal attempts to prevent the spotted lanternflies from entering t
 
 ## Functional Prototype
 
-<img src="workspaces/sp26-portfolio-cwk66/assets/images/overall-view.png" alt="overall view" width="200">
-<img src="workspaces/sp26-portfolio-cwk66/assets/images/body-view.png" alt="body view" width="200">
-<img src="/workspaces/sp26-portfolio-cwk66/assets/images/lid-view.png" alt="lid view" width="200">
+<img src="assets/images/overall-view.png" width="200">
+<img src="assets/images/body-view.png" width="200">
+<img src="assets/images/lid-view.png" width="200">
 
 ### Prototype Assembly 
 1. Gently press the motion sensors into the holes in the lid. Thread the wiring through the lid, ensuring connection is maintained between the sensors and the arduino.
