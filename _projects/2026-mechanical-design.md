@@ -57,8 +57,8 @@ Our second proposal attempts to prevent the spotted lanternflies from entering t
 
 ## Functional Prototype
 
-<img src="/workspaces/sp26-portfolio-cwk66/assets/images/overall-view.png" alt="overall view" width="200">
-<img src="/workspaces/sp26-portfolio-cwk66/assets/images/body-view.png" alt="body view" width="200">
+<img src="workspaces/sp26-portfolio-cwk66/assets/images/overall-view.png" alt="overall view" width="200">
+<img src="workspaces/sp26-portfolio-cwk66/assets/images/body-view.png" alt="body view" width="200">
 <img src="/workspaces/sp26-portfolio-cwk66/assets/images/lid-view.png" alt="lid view" width="200">
 
 ### Prototype Assembly 
