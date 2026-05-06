@@ -148,4 +148,4 @@ Despite these challenges, further investigation into alternative nozzle geometri
 After spending the semester designing and testing our system, we believe that our prototype has potential, but would benefit from further refinement. The primary limitation is the spraying mechanism, as our initial design specified a system capable of distributing fluid through multiple nozzles. Due to our time constraints, we chose to alter our housing to work with our original spraying mechanism, which can achieve a radius of about 10 inches. While this configuration could potentially work, the limitations of the spray required the addition of adhesive surfaces to achieve our desired efficiency. Further developments should prioritize a pressurized delivery system combined with multiple nozzles to enable 360-degree coverage.
 
 ### Bill of Materials:
-<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/bom.png" alt="BOM" width="200">
+<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/bom.png" alt="BOM" width="500">
