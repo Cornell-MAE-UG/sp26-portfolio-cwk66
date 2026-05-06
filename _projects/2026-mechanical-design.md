@@ -111,29 +111,34 @@ We ultimately decided to target SLF in their adult stage of life due to minimal 
 
 ### Final Prototype and Application:
 
-<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/fig1.png" alt="Fig 1" width="200">
+<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/fig1.png" alt="Fig 1" width="500">
+
 Figure 1: Assembled Prototype
 
 Our final design is a lightweight device that attracts SLF before immobilizing them with a combination of adhesives and a directed spray. It leverages sap from the Tree of Heaven as the attraction mechanism. Upon approach, the insects are detected by an infrared sensor, triggering an actuation mechanism that releases a spray of organic soap and water mixture, rapidly immobilizing the SLF without damaging nearby plants. The spray can be replaced as desired. Additionally, the outer housing contains adhesive flypaper that captures insects approaching from outside the effective range. 
 
 The device was designed with the intent of being scalable. Individual units can be mounted to a variety of locations, and once mounted, are largely autonomous. While the prototype currently runs off disposable batteries, a final product would ideally run off solar power. Each unit provides approximately 180 degrees of coverage, but multiple units can be strategically arranged to maximize coverage and performance.
 
-<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/fig2fig3.png" alt="Fig 2" width="200">
+<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/fig2fig3.png" alt="Fig 2" width="500">
+
 Figures 2 & 3: Full View and Cross Section of prototype
 
 ### Testing and Results:
 To evaluate our prototype’s performance, we tested the spray range, IR sensor detection range, and strength of the adhesive paper. 
 
-<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/irdata.png" alt="IR data" width="200">
+<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/irdata.png" alt="IR data" width="500">
+
 We assessed the IR sensor performance by measuring the detection rate as a function of angle. Experimental observations showed an effective FOV of approximately 120–140 degrees, with accuracy decreasing towards the edges. As a result, we included two sensors into the design to increase reliability.
-<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/fly-paper.png" alt="fly paper data" width="200">
+<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/fly-paper.png" alt="fly paper data" width="500">
+
 Finally, we tested the adhesive paper to determine its strength. Our results show that the flypaper is easily capable of retaining a lanternfly-sized object. The adhesive remained effective under moderate loading conditions, though overcrowding reduced marginal capture efficiency due to decreased sticking area. Overall, the flypaper is robust, reliably capturing insects missed by the spray.
 At the system level, overall efficiency was evaluated by introducing a controlled number of objects and recording the proportion successfully detected and immobilized. The prototype achieved an average effectiveness of approximately 75% within the intended operating region, achieving our target specified in the problem statement. This discrepancy was primarily attributed to the limited spray radius and partial sensor coverage, which allowed some targets to pass through undetected or unsprayed.
 
 ### Prototype Details: 
 Our initial full-scale functional prototype was designed as a branch-mounted, modular trapping system intended to provide 360° coverage of the surrounding area.
 
-<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/fig4fig5fig6.png" alt="Overall View" width="200">
+<img src="https://cornell-mae-ug.github.io/sp26-portfolio-cwk66/assets/images/fig4fig5fig6.png" alt="Overall View" width="600">
+
 Figures 4, 5, 6: (Left to Right) Overall View; Body View with Spray Can and Nozzles; Lid View
 
 A central feature of this design was a custom four-way nozzle intended to distribute spray evenly in all directions. This configuration was selected to improve the likelihood of SLF contact regardless of approach angle. However, during implementation, compatibility issues were identified between the custom nozzle design and the commercially available spray canisters, specifically related to pressure delivery and nozzle interface geometry. These constraints prevented the successful integration of the multi-directional spray system in the current iteration.
