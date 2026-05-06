@@ -16,6 +16,7 @@ So far, we are in the conceptual stage of defining our problem and brainstorming
 
 [Client Report](#client-report)
 
+
 ## Client Outline and Pitch:
 
 **Proposed Solutions for Managing Spotted Lanternflies in Vineyards**
